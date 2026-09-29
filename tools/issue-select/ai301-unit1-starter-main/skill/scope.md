@@ -14,7 +14,7 @@ Two parts. Staff wrote the first; you write the second.
 
 Only issues in the course's Path Review repository are candidates:
 
-- Repo: `<ORG>/<PATH-REVIEW-REPO>` <!-- paste your section's repo from the Unit 1 Check-In page -->
+- Repo: `codepath/pathreview-ai301-fa26-howard` <!-- paste your section's repo from the Unit 1 Check-In page -->
 
 Do not search, fetch, or grade issues from any other repository, however
 promising. The wider GitHub comes later in the course; for now the field
@@ -36,4 +36,4 @@ you want to avoid. The skill uses this only to RANK the issues your
 rubric accepts, never to change a verdict: fit cannot rescue an issue
 your rubric rejects, and cannot sink one it accepts. -->
 
-(Write a few sentences here.)
+I have experience with Python, HTML, CSS, and computer vision using OpenCV. I am comfortable with basic programming concepts, data structures, algorithms, debugging, and working with Git/GitHub, but I am still developing my experience with larger codebases and contributing to unfamiliar open-source projects. I would prefer a first issue that has a clear, bounded scope and lets me work with technologies I have some familiarity with while still giving me an opportunity to learn.
