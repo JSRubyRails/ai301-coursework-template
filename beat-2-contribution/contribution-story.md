@@ -55,10 +55,9 @@ happened; these entries are the toolkit's own timeline.
 All four entries are graded. Keep every heading below, and fill each
 one in the week it belongs to.
 
-**Unit 5: [one line on the tool work]**
+**Unit 9: Built and tested an issue-scout skill for evaluating open-source issues**
 
-[2-4 sentences: what you built (the scout, your strategy), what broke
-or fell short, what changed because of it.]
+I built and customized the issue-scout skill by developing a search strategy, issue-evaluation rubric, scope rules, and supporting reference files tailored to my programming experience. During testing, I found that some issues surfaced through the external issue tracker did not fit the skill's repository restrictions, while other seemingly suitable issues had competing pull requests or work that was too broad for a first contribution. I used the grading workflow to evaluate three candidate issues and distinguish the one accepted issue from the two rejected ones, reinforcing the importance of checking issue availability and scope rather than relying on labels alone.
 
 **Unit 6: [one line on the tool work]**
 
